@@ -1,5 +1,5 @@
 # cmd2sh
-With this package, you can use some reproduced shell commands on command prompt.
+With this package, you can use some reproduced Linux/Unix shell commands on Windows command prompt.
 
 ## Contents
 This package includes following commands:
