@@ -16,5 +16,12 @@ This package includes following commands:
 - rm
 - wc
 
-## Documentation
-Read [document](https://kazumakano.github.io/dotlog/post/20210724-cmd2sh/) for more information.
+## Installation
+1. Clone this repository or Download zip file.
+2. Move this directory to your home directory.
+3. Execute `shrc.cmd` in order to load macros and add this directory to your Path environment variable temporaliry.
+
+You don't need to execute `shrc.cmd` if you set the link of Command Prompt as following:
+```cmd
+cmd.exe /k %USERPROFILE%\cmd2sh\shrc.cmd
+```
