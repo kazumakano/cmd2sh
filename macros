@@ -1,0 +1,10 @@
+cat      = type $*
+cd       = if "$1"=="" (cd %HOMEPATH%) else (cd $*)
+clear    = cls
+cp       = copy $*
+ifconfig = ipconfig $*
+ls       = dir /b $*
+mv       = move $*
+open     = start $*
+pwd      = cd $*
+rm       = del $*
