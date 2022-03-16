@@ -17,7 +17,7 @@ This package includes following commands:
 - wc
 
 ## Installation
-1. Clone this repository or Download zip file.
+1. Clone this repository or download zip file.
 2. Move this directory to your home directory.
 3. Execute `shrc.cmd` in order to load macros and add path to this directory into your Path environment variable temporaliry.
 
